@@ -32,12 +32,14 @@
 ## Portfolio:
 - [Site Estático S3 + CloudFront](https://github.com/pablolehmam/aws-static-website-s3-cloudfront)
 
+<br>
+
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-## 🔥 Skills
+## 🔥 Habilidades
   
   <!-- Skills: Ferramentas e Utilitários -->
   <div style="flex-basis: 48%;">
